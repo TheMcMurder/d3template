@@ -1,0 +1,18 @@
+{
+  "name": "Justin_McMurdie_D3jsTemplate",
+  "version": "1.0.0",
+  "description": "A template for developing d3js written by Justin McMurdie",
+  "main": "index.html",
+  "author": "Justin McMurdie - mcmurdiej@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-jshint": "^0.11.0",
+    "grunt-contrib-uglify": "^0.8.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "dependencies": {
+    "d3": "^3.5.5"
+  }
+}

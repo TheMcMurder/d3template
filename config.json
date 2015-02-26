@@ -1,0 +1,9 @@
+{
+  "lintFiles": [
+    "src/js/*"
+
+  ],
+  "lintIgnore":[
+    "src/libs/*"
+  ]
+}
